@@ -1,2 +1,2 @@
-console.log('hi')
-console.log('world')
+console.log('hi');
+let name = 'anil';
