@@ -1,2 +1,3 @@
-console.log('hi')
-console.log('world')
+console.log('hi');
+let a = 'anil';
+console.log(a);
