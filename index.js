@@ -1,3 +1,3 @@
 console.log('hi');
-let a = 'anil';
+let name = 'anil';
 console.log(a);
